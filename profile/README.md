@@ -2,7 +2,7 @@
 ## Architektur
 * * *
 
-![drawio](https://raw.githubusercontent.com/PosBuddy/.github/main/profile/drawio)
+![drawio](https://github.com/PosBuddy/.github/blob/main/profile/drawio?raw=true)
 
 * * *
 ## Komponenten des PosBuddy Systems
