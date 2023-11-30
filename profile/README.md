@@ -2,7 +2,7 @@
 
 The PosBuddy system is a cash register software for clubs and small to medium-sized events.
 
-!()[https://joern-karthaus.de/img/posBuddy/party.jpg]
+![](https://joern-karthaus.de/img/posBuddy/party.jpg)
 
 The software replaces classic bon systems with a solution consisting of 
 a server based on Rasperry Pi and smartphones at 1..n payment stations.
