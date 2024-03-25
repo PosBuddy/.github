@@ -9,4 +9,4 @@ a server based on Rasperry Pi and smartphones at 1..n payment stations.
 
 Customers pay by scanning a hardware token that they have previously topped up at a payment station
 
-You can find more Information (In German) at the ![Project Site](https://sites.google.com/view/posbuddy)
+You can find more Information (In German) at the [Project Site](https://sites.google.com/view/posbuddy)
